@@ -5,3 +5,6 @@ Calendaring
 Pom method
 
 Shoutout to Cyanne Jones!
+
+Rewatch session recordings
+Rewrite notes for clarity
